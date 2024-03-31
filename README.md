@@ -59,6 +59,8 @@ $ echo "help" | ./console.py
 
 Documented commands (type help <topic>):
 ========================================
+
+ok
 EOF  help  quit
 (hbnb)
 $

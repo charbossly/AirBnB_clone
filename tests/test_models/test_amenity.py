@@ -12,6 +12,7 @@ from models.engine.file_storage import FileStorage
 class TestAmenity(unittest.TestCase):
     """Test cases for the `Amenity` class."""
 
+    
     def setUp(self):
         pass
 
